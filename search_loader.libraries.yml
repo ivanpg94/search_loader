@@ -1,0 +1,9 @@
+search_loader:
+  version: 1.x
+  css:
+    component:
+      css/search_loader.css: {}
+  js:
+    js/search_loader.js: {}
+  dependencies:
+    - core/jquery

@@ -1,0 +1,4 @@
+<?php
+function search_loader_page_attachments(array &$attachments) {
+$attachments['#attached']['library'][] = 'search_loader/search_loader';
+}

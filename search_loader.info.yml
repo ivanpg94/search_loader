@@ -1,0 +1,5 @@
+name: 'Search Loader'
+type: module
+description: 'Search loader for wait.'
+core_version_requirement: 8.x || 9.x || 10.x
+package: 'Custom'
